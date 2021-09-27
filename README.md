@@ -1,4 +1,3 @@
-#CUBEDASH
 WELCOME TO CUBEDASH
 Please remember the project name is subject to change at anytime.
 #First Game Development Project
